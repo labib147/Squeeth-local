@@ -4,3 +4,5 @@
 2. Start docker with `sudo docker-compose up` going to the docker-compose folder.
 3. Navigate to the Subgraph folder by typing `cd packages/subgraph`
 4. Install Yarn by running `yarn install`
+5. Rename the 'subgraph.template.yaml' file to 'subgraph.yaml' in the "Subgraph" package.
+6. 
