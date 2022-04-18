@@ -5,4 +5,5 @@
 3. Navigate to the Subgraph folder by typing `cd packages/subgraph`
 4. Install Yarn by running `yarn install`
 5. Rename the 'subgraph.template.yaml' file to 'subgraph.yaml' in the "Subgraph" package.
-6. 
+6. Navigate to Squeeth>packages>services>graph-node. Open terminal there and type `sudo docker-compose up` to start docker.
+7. 
