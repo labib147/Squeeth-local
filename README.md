@@ -1,1 +1,1 @@
-# Uniswap-V3-Subgraph
+Squeeth-local demo
