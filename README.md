@@ -11,6 +11,6 @@
 #Run in frontend
 1. Create a new file called `.env.local` and copy the contents of "env.example"
 2. Add Infura API key and Blocknative API key 
-3. Go to "package.json" in frontend and run `yarn install`
+3. Go to "package.json" in frontend by typing `cd packages/frontend` in a new terminal and run `yarn install`
 4. Run `yarn dev`
 5. Go to localhost:3000
